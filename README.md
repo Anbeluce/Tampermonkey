@@ -1,0 +1,2 @@
+# Tampermonkey
+Script AI
